@@ -38,7 +38,7 @@ http://localhost:8080/api/cuentas
 http://localhost:8080/api/cuentas/3
 ```
 # La conexión a la base de datos es: 
-**conexion**
+**conexión**
 ```java
 spring.application.name=Proyecto-02
 spring.datasource.url=jdbc:mysql://localhost:3306/cuenta_api_rest_bd?createDatabaseIfNotExist=true
