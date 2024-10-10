@@ -1,4 +1,4 @@
-# Se realizo api rest utilizando la libreria de HAtEOAS
+# Se realizó una API REST utilizando la librería de HATEOAS.
 
 ## Las dependencias que se incorporaron al proyecto son: 
 - Spring Hateoas 
@@ -7,7 +7,7 @@
 - Spring Web
 - Lombok
 
- # se realizo servicios con endpoint de : 
+ # se realizó servicios con endpoint de : 
  
 **Get Listar Cuentas**
 ```java
@@ -37,7 +37,7 @@ http://localhost:8080/api/cuentas
 ```java
 http://localhost:8080/api/cuentas/3
 ```
-# Con conección a la base de datos
+# La conexión a la base de datos es: 
 **conexion**
 ```java
 spring.application.name=Proyecto-02
