@@ -1,4 +1,4 @@
-### se realizo api rest utilizando la libreria de Hateoas
+# Se realizo api rest utilizando la libreria de HAtEOAS
 
 ## las dependencias que se incorporarón son 
 - Spring Hateoas 
