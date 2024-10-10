@@ -1,6 +1,6 @@
 # Se realizo api rest utilizando la libreria de HAtEOAS
 
-## las dependencias que se incorporarón son 
+## Las dependencias que se incorporaron al proyecto son: 
 - Spring Hateoas 
 - Spring Data JPA 
 - MySQL Driver 
